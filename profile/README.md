@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## Welcome to the Python Study Buddy community! Our group aims to empower women who are interested in learning how to code, and who are interested in exploring the programming language Python. 
+## Welcome to the Python Study Buddy community! Our group aims to empower women who are interested in learning how to code and who are interested in exploring the programming language Python. 
 
-## Take a look at our Community Guidelines to have a better understanding who we are.
+## Take a look at our community guidelines to get a better understanding of who we are.
 
 <!--
 Community Updates and Guidelines  :bulb:@channel @everyone
